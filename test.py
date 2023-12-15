@@ -24,3 +24,6 @@ for obj in data:
         # Add the object string to the list of seen objects
         seen_objects.append(obj_str)
 #testing 
+
+for i in range(10):
+    print (i)
